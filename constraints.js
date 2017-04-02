@@ -34,7 +34,7 @@ var message = Constraints.validate(input);
         },
         select: {
           'select-multiple': 'Please select an item in the list.',
-          'select': 'Please select an item in the list',
+          'select-one': 'Please select an item in the list',
         },
         textarea: {
           'textarea': 'Please enter a valid value.'
@@ -155,7 +155,7 @@ var message = Constraints.validate(input);
         },
         select: {
           'select-multiple': 'Please select an item in the list.',
-          'select': 'Please select an item in the list',
+          'select-one': 'Please select an item in the list',
         },
         textarea: {
           'textarea': 'Please fill in this field.'
